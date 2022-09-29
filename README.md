@@ -1,5 +1,8 @@
 # Handwritten-Digit-Recognition
 
+Description  :  The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made with many different flavors. The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image. 
+
+
 Preview : 
 
 ![image](https://user-images.githubusercontent.com/89749348/192950470-80788224-10e2-4bc1-8d14-2fdfeb8bb11b.png)
