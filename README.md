@@ -16,3 +16,15 @@ Preview :
 ![image](https://user-images.githubusercontent.com/89749348/192950813-234523f8-61b2-4792-a40f-e6e5069e2c28.png)
 ![image](https://user-images.githubusercontent.com/89749348/192950835-2c2d71a5-1b08-4bee-8943-9745a09f635c.png)
 ![image](https://user-images.githubusercontent.com/89749348/192950865-c24c58bb-0ea7-47ce-afb1-9cb8c21ee096.png)
+
+# GUI Preview
+![0](https://user-images.githubusercontent.com/85798085/192959912-17b2572f-eb0f-4e17-b19a-7aed105ea7f8.png)
+![1](https://user-images.githubusercontent.com/85798085/192959917-9da1ca37-7402-41ec-868a-492a5ca89ae5.png)
+![2](https://user-images.githubusercontent.com/85798085/192959918-5e584fe3-6f2b-4356-bf2c-116c6d2093fc.png)
+![3](https://user-images.githubusercontent.com/85798085/192959921-832e98b0-27d7-46a2-a0a7-e775ad227ba7.png)
+![4](https://user-images.githubusercontent.com/85798085/192959922-6b81ff00-5797-4c11-a4e2-36f751a5de21.png)
+![5](https://user-images.githubusercontent.com/85798085/192959924-244f6119-d0ad-4768-b68a-7e3ee614fd2a.png)
+![6](https://user-images.githubusercontent.com/85798085/192959925-c87497e0-5deb-4157-8e90-07edf57f3bbd.png)
+![7](https://user-images.githubusercontent.com/85798085/192959928-c57f950f-2e78-4325-8800-42115f9cc977.png)
+![8](https://user-images.githubusercontent.com/85798085/192959896-9e612371-6bc3-42da-b13a-b7af8c75ecc5.png)
+![9](https://user-images.githubusercontent.com/85798085/192959908-9e84b1d7-a6a6-42d4-b74e-04aa67133cbb.png)
